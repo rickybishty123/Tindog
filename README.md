@@ -1,2 +1,2 @@
 # Tindog
-Tinder replica made in Angela Yu's webdev course
+Tinder replica made with the help of Angela Yu's web dev course for practicing bootstrap.
